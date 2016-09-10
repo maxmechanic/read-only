@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "read-only",
+    "description": "no transmission, only reception"
+  },
+  "appDescription": {
+    "message": "no transmission, only reception",
+    "description": "no transmission, only reception"
+  }
+}
